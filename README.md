@@ -5,5 +5,5 @@
 
 <div>
 <h2 align="center">Acesse o currriculo por aqui:</h2>
-<p align="center"><a href="https://wa.me://+5567998318445"><img src="https://img.shields.io/badge/-Curriculo-black?style=for-the-badge&logo=Github&logoColor=Green"></a></p>
+<p align="center"><a href="https://curiculomaycon.netlify.app"><img src="https://img.shields.io/badge/-Curriculo-black?style=for-the-badge&logo=Github&logoColor=Green"></a></p>
 </div>
