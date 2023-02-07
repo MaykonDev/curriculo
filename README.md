@@ -3,4 +3,7 @@
 <p align="center">Esse curriculo foi desenvolvido para uma alternativa interessante de comos criamos nossos curriculos para vagas de desenvolvedores back/front end</p>
 
 
-<p>Acese o curriculo <a href="https://curriculomaycon.netlify.app/">por aqui</a></p> </li>
+<div>
+<h2 align="center">Acesse o currriculo por aqui:</h2>
+<p align="center"><a href="https://wa.me://+5567998318445"><img src="https://img.shields.io/badge/-Curriculo-black?style=for-the-badge&logo=Github&logoColor=Green"></a></p>
+</div>
